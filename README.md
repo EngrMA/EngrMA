@@ -11,7 +11,16 @@ Hi
 
 😎 I'm Mohammad Amin Amorvani
 
-🚀 As Passionate about researching and technology
+🚀 # Mohammad Amin Amrovani
+
+Power Systems Researcher and Machine Learning Engineer
+
+Focused on:
+- Distribution-system resilience and restoration
+- Stochastic and risk-aware optimization
+- EV and mobile-energy-resource coordination
+- Renewable-energy forecasting
+- Transportation–power-system integration
 
 <br><br>
 
