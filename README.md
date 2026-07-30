@@ -116,33 +116,7 @@ Interactive Streamlit dashboards for power-system monitoring, optimization, visu
 
 ---
 
-## 📫 Connect With Me
 
-<p align="center">
-
-<a href="https://github.com/EngrMA">
-  <img src="https://img.shields.io/badge/GitHub-EngrMA-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/mohammad-amin-amrovani-597a99226">
-  <img src="https://img.shields.io/badge/LinkedIn-Mohammad_Amin_Amrovani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://scholar.google.com/citations?hl=en&user=cTGJxoIAAAAJ">
-  <img src="https://img.shields.io/badge/Google_Scholar-Research_Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
-</a>
-
-<a href="mailto:mohammadamin.aa99@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-mohammadamin.aa99-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://wa.me/989215847011">
-  <img src="https://img.shields.io/badge/WhatsApp-Contact_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-</p>
-
----
 
 <p align="center">
   <strong>Building intelligent, resilient, and sustainable energy systems through optimization and machine learning.</strong>
@@ -171,19 +145,5 @@ Interactive Streamlit dashboards for power-system monitoring, optimization, visu
 
 
 
-## ⚡️ More Activity
 
-<p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=EngrMA&show_icons=true&theme=graywhite&rank_icon=github&bg_color=30,F9D030,F62AA0,B8EE30,26DFD0'/>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=EngrMA&theme=graywhite&layout=compact&bg_color=30,F9D030,F62AA0,B8EE30,26DFD0'/>
-</p>
-<p align='center'>
-  <img align='center' src='https://github-profile-trophy.vercel.app/?username=EngrMA&theme=juicyfresh&title=Followers,MultiLanguage,Repositories,Commits,Issues'/>
-</p>
-<p align='center'>
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=EngrMA&theme=highcontrast'/>
-</p>
-
-![](https://komarev.com/ghpvc/?username=EngrMA&color=yellow)
-<br><br>
 
