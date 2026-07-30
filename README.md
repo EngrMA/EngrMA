@@ -11,7 +11,7 @@ Hi
 
 😎 I'm Mohammad Amin Amorvani
 
-🚀 # Mohammad Amin Amrovani
+# Mohammad Amin Amrovani
 
 Power Systems Researcher and Machine Learning Engineer
 
